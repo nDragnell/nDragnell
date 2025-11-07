@@ -14,10 +14,6 @@ Ben Gebze Teknik Üniversitesi'nde Bilgisayar Mühendisliği okuyan bir öğrenc
 * **Kütüphaneler/Frameworkler:** SFML, React
 * **Araçlar:** Git, VS Code, Linux
 
-### 📫 Bana Ulaşın
-
-* **E-posta:** [email@adresiniz.com](mailto:email@adresiniz.com)
-
 ---
 ### 📊 GitHub İstatistiklerim
 
@@ -32,5 +28,3 @@ Ben Gebze Teknik Üniversitesi'nde Bilgisayar Mühendisliği okuyan bir öğrenc
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
