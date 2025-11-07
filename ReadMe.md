@@ -16,7 +16,6 @@ Ben Gebze Teknik Üniversitesi'nde Bilgisayar Mühendisliği okuyan bir öğrenc
 
 ### 📫 Bana Ulaşın
 
-* **LinkedIn:** [linkedin.com/in/profiliniz](https://linkedin.com/in/profiliniz)
 * **E-posta:** [email@adresiniz.com](mailto:email@adresiniz.com)
 
 ---
