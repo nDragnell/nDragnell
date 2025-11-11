@@ -14,11 +14,6 @@ Ben Gebze Teknik Üniversitesi'nde Bilgisayar Mühendisliği okuyan bir öğrenc
 * **Kütüphaneler/Frameworkler:** SFML, React
 * **Araçlar:** Git, VS Code, Linux
 
----
-### 📊 GitHub İstatistiklerim
-
-[![Ömer'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=omer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=omer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
